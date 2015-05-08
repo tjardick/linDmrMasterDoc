@@ -1,3 +1,9 @@
+site_name: MkLorum
+    pages:
+    - [index.md, Home]
+    - [about.md, About]
+    theme: readthedocs
+
 Welcome to the LinDMRmaster Documentation
 =========================================
 
